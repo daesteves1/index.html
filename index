@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ChatGPT Examples</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Using ChatGPT</h1>
+    </header>
+    <div class="content">
+      <img src="chatgpt.png" alt="ChatGPT logo" width="100" height="100">
+      <p>ChatGPT is a pre-trained language model that can be fine-tuned for a variety of natural language processing tasks, such as generating text, answering questions, and summarizing content.</p>
+      
+      <table>
+        <tr>
+          <th>Task</th>
+          <th>Example</th>
+        </tr>
+        <tr>
+          <td>Text generation</td>
+          <td>Generating a story by prompting ChatGPT with "Once upon a time"</td>
+        </tr>
+        <tr>
+          <td>Question answering</td>
+          <td>Answering customer questions by fine-tuning ChatGPT on a dataset of FAQs</td>
+        </tr>
+        <tr>
+          <td>Summarization</td>
+          <td>Generating headlines for news articles by fine-tuning ChatGPT on a dataset of articles and their headlines</td>
+        </tr>
+        <tr>
+          <td>Chatbot</td>
+          <td>Building a chatbot by fine-tuning ChatGPT on a dataset of conversation transcripts</td>
+        </tr>
+        <tr>
+          <td>Text completion</td>
+          <td>Completing unfinished sentences or paragraphs by prompting ChatGPT with an incomplete text</td>
+        </tr>
+        <tr>
+          <td>Translation</td>
+          <td>Translating text from one language to another by fine-tuning ChatGPT on a dataset of parallel texts</td>
+        </tr>
+        <tr>
+          <td>Poem/song writing</td>
+          <td>Generating poems or songs by fine-tuning ChatGPT on a dataset of poems or song lyrics</td>
+        </tr>
+        <tr>
+          <td>Content creation</td>
+          <td>Writing articles, blog post, product descriptions, or any other types of content by fine-tuning ChatGPT on a dataset of similar content</td>
+        </tr>
+        <tr>
+          <td>Speech generation</td>
+          <td>Generating speech by fine-tuning ChatGPT on a dataset of speech transcripts</td>
+        </tr>
+        <tr>
+          <td>Named entity recognition (NER)</td>
+          <td>Extracting entities such as people, places, and organizations from text by
